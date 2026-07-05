@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - claude/repo-push-d1pza7
   workflow_dispatch:
 
 permissions:
